@@ -1,0 +1,2 @@
+.clock{position:relative;margin:0 auto;width:300px;height:300px;border-radius:50%;background-color:grey;transform:rotate(180deg)}.clock .hand{position:absolute;top:50%;left:50%;transform-origin:center 0}@keyframes rotate{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.clock__second{animation:rotate 60s steps(60) infinite;width:5px;height:140px;background-color:#fff;border-radius:2.5px}.clock__minute{animation:rotate 3600s linear infinite;width:10px;height:130px;background-color:#000;border-radius:5px}
+/*# sourceMappingURL=main.f20d0055.css.map */
